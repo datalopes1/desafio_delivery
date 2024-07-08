@@ -1,0 +1,8 @@
+data/processed/database.db
+data/raw/channels.csv
+data/raw/deliveries.csv
+data/raw/drivers.csv
+data/raw/hubs.csv
+data/raw/orders.csv
+data/raw/payments.csv
+data/raw/stores.csv
