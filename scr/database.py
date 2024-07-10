@@ -1,4 +1,4 @@
-#%% Import das bibliotevas
+#%% Import das bibliotecas
 import pandas as pd
 import sqlalchemy
 import os
@@ -18,4 +18,3 @@ directory = '../data/raw'
 db_name = '../data/processed/database.db'
 #%% Criação do database
 csv_to_sqlite(db_name, directory)
-# %%
