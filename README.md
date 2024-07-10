@@ -206,4 +206,4 @@ Após carregar os dados no Python, foi realizado o processa de limpeza e manipul
 | PR        | 60085.45           |
 
 ## Bônus para os funcionários
-O faturamento total foi de R$2010334.24 e o bônus para o funcionários é de R$201.03.
+O faturamento total foi de R$2.010.334,24 e o bônus para o funcionários é de R$201,03.
